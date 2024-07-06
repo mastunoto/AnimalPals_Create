@@ -1,10 +1,6 @@
-<!--実装機能リストURL-->
-https://docs.google.com/spreadsheets/d/1Viey4BoBy8rRi7iKY60i7KsBm73hbyMK2J03XhaazrQ/edit?gid=1898975908#gid=1898975908
-
 # AnimalPals Create
 
 ## サイト概要
-動物好きためのクラフトコミュニティ：アイデアとクリエイションのマッチングプラットフォーム
 ### サイトテーマ
 動物好きとハンドメイドクリエイターをつなぐ、動物に特化したSNS
 ​
